@@ -1,1 +1,1 @@
-# Επεξεργασία δεδομένων απο Airbnb 
+# Data Mining from Airbnb data
